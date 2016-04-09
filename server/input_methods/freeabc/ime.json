@@ -1,0 +1,11 @@
+{
+	"name":"Free ABC",
+	"version": "0.1",
+	"guid": "{7C42702A-3DDD-4AFF-B936-F7BF00BF2E1D}",
+	"locale": "zh-CN",
+	"icon": "freeabc.ico",
+	"win8_icon": "zh.ico",
+	"moduleName": "freeabc_ime",
+	"serviceName": "FreeABCTextService",
+	"configTool": "unknown"
+}
